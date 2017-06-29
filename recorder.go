@@ -8,9 +8,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/johnnadratowski/golang-neo4j-bolt-driver/encoding"
-	"github.com/johnnadratowski/golang-neo4j-bolt-driver/errors"
-	"github.com/johnnadratowski/golang-neo4j-bolt-driver/log"
+	"github.com/alasdairtran/golang-neo4j-bolt-driver/encoding"
+	"github.com/alasdairtran/golang-neo4j-bolt-driver/errors"
+	"github.com/alasdairtran/golang-neo4j-bolt-driver/log"
 )
 
 // recorder records a given session with Neo4j.

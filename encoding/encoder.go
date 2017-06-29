@@ -7,8 +7,8 @@ import (
 
 	"bytes"
 
-	"github.com/johnnadratowski/golang-neo4j-bolt-driver/errors"
-	"github.com/johnnadratowski/golang-neo4j-bolt-driver/structures"
+	"github.com/alasdairtran/golang-neo4j-bolt-driver/errors"
+	"github.com/alasdairtran/golang-neo4j-bolt-driver/structures"
 )
 
 const (

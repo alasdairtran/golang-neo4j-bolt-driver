@@ -1,8 +1,8 @@
 package golangNeo4jBoltDriver
 
 import (
-	"github.com/johnnadratowski/golang-neo4j-bolt-driver/errors"
-	"github.com/johnnadratowski/golang-neo4j-bolt-driver/structures/messages"
+	"github.com/alasdairtran/golang-neo4j-bolt-driver/errors"
+	"github.com/alasdairtran/golang-neo4j-bolt-driver/structures/messages"
 	"io"
 	"reflect"
 	"testing"
